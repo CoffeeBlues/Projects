@@ -1,0 +1,19 @@
+{
+	"id": "the_parent",
+	"name": "The Parent",
+	"description": "A lost Parent finding home in a barren world with a unexpected child in there care.",
+	"features": {
+		"color": "9cf0a4",
+		"start_room": "OE_CAVE02",
+		"world_state": [ "the_parent", "Spear", "Artificer", "Saint" ],
+		"story_regions": [ "DM", "LC", "OE", "HR" ],
+		"guide_overseer": 4,
+		"food_max": 5,
+		"food_min": 2,
+		"the_parent/super_jump": 0.5,
+		"the_parent/explode_on_death": true,
+
+		"select_menu_scene": "Campaign_Parent",
+		"select_menu_scene_ascended": "Ghost_Parent"
+	}
+}

@@ -1,0 +1,23 @@
+﻿{
+	"id": "CoffeeBlusel.the_parent",
+	"name": "The Parent",
+	"version": "0.1.0",
+	"hide_version": false,
+	"authors": "CoffeeBlusel",
+	"description": "You are a single parent taking care of a lizard whom you watch hatch. You yourself are lost, and have to travel all the way back to Freedom Reigns (FR) while also taking care of your unexpected child.",
+	"requirements": [
+		"moreslugcats",
+		"slime-cubed.slugbase"
+	],
+	"requirements_names": [
+		"More Slug Cats Expansion",
+		"SlugBase"
+	],
+	"checksum_override_version": false,
+	"tags": [
+		"Campaign",
+		"Custom Slugcat",
+		"Custom Iterator",
+		"Custom Regions"
+	]
+}

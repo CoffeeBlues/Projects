@@ -1,0 +1,39 @@
+/* CSS */
+
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/* --------- Page Content */
+div.page {
+    background-color: rgb(227, 227, 227);
+    padding: 0;
+}
+
+div.twrapper {
+    position: relative;
+    background-color: gainsboro;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+    div.twrapper p {
+        position: relative;
+        width: 50%;
+        align-self: center;
+        padding-left: 2%;
+    }
+
+    img {
+        width: 25%;
+        padding: 0 auto;
+        background-color: red;
+    }
